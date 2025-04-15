@@ -11,7 +11,7 @@
 - [Heeyoun Lim](https://github.com/ready-oun)
 - [Josh Greenberg](https://github.com/savoi)
 - [Dawxay](https://github.com/Dawxay)
-- [GAMIDI-JYOTIKA](https://github.com/cython/cython/tree/master/.github)
+- [GAMIDI-JYOTIKA](https://github.com/GAMIDI-JYOTHIKA)
 - [Amit](https://github.com/Singhamit911)
 - [Harsimran jeet Singh](https://github.com/h4harsimran)
 - [Saurabh Patel](https://github.com/Saurabh3652)
